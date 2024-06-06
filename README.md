@@ -71,6 +71,7 @@ Para uma análise futura recomendamos que seja feita a coleta de maiores informa
 (1) Dashboard - 💻[PowerBI]( ) </br>
 (2) Apresentação - ✳️[Google Slides]( )</br>
 (3) BaseDeDados - ✳️[Google Sheets](https://drive.google.com/file/d/11W1wfljCoRKy1Uk5R65LHWmh2mtCtMGV/view)</br>
+(4) Desenvolvimento - ✳️[Google Colab](https://colab.research.google.com/drive/1B4N8UnISLrUswNxwHef-77bgBt7jkEBz?usp=sharing)</br>
 
 
 ## 🤝 Colaboradores
