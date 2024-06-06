@@ -69,7 +69,7 @@ Para uma análise futura recomendamos que seja feita a coleta de maiores informa
 
 ## Links úteis 
 (1) Dashboard - 💻[PowerBI]( ) </br>
-(2) Apresentação - ✳️[Google Slides]( )</br>
+(2) Apresentação - ✳️[Google Slides](https://docs.google.com/presentation/d/1c-gPmikBiWu3SEkWTHBhkIwIFlElBje_xrngEl6KYmU/edit?usp=sharing)</br>
 (3) BaseDeDados - ✳️[Google Sheets](https://drive.google.com/file/d/11W1wfljCoRKy1Uk5R65LHWmh2mtCtMGV/view)</br>
 (4) Desenvolvimento - ✳️[Google Colab](https://colab.research.google.com/drive/1B4N8UnISLrUswNxwHef-77bgBt7jkEBz?usp=sharing)</br>
 
