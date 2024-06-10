@@ -6,16 +6,21 @@ Num mundo onde a indústria musical é extremamente competitiva e em constante e
 Neste contexto, uma gravadora enfrenta o emocionante desafio de lançar um novo artista no cenário musical global. Felizmente, ela tem uma ferramenta poderosa em seu arsenal: um extenso conjunto de dados do Spotify com informações sobre as músicas mais ouvidas em 2023.
 A gravadora levantou uma série de hipóteses sobre o que faz uma música seja mais ouvida. Essas hipóteses incluem:
 
-⁉️ Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.</br>
-
-⁉️ As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.</br>
-
-⁉️ A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.</br>
-
-⁉️ Artistas com um maior número de músicas no Spotify têm mais streams.</br>
-
-⁉️ As características da música influenciam o sucesso em termos de número de streams no Spotify.</br>
-
+ - Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.</br>
+ ✖️ **Hipótese Refutada!**</br>
+ 
+ - As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.</br>
+ ✔️ **Hipótese Confirmada!**</br>
+ 
+ - A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.</br>
+ ✔️ **Hipótese Confirmada!**</br>
+ 
+ - Artistas com um maior número de músicas no Spotify têm mais streams.</br>
+ ✔️ **Hipótese Confirmada!**</br>
+ 
+ - As características da música influenciam o sucesso em termos de número de streams no Spotify.</br>
+ ✖️ **Hipótese Refutada!**</br>
+ 
 Neste projeto, exploramos este aspecto da análise de dados, destacando como isso ajuda a melhorar a compreensão dos fenômenos, apoiar pesquisas e tomar decisões informadas.
 
 
