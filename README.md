@@ -77,6 +77,7 @@ Para uma análise futura recomendamos que seja feita a coleta de maiores informa
 (2) Apresentação - ✳️[Google Slides](https://docs.google.com/presentation/d/1c-gPmikBiWu3SEkWTHBhkIwIFlElBje_xrngEl6KYmU/edit?usp=sharing)</br>
 (3) BaseDeDados - ✳️[Google Sheets](https://drive.google.com/file/d/11W1wfljCoRKy1Uk5R65LHWmh2mtCtMGV/view)</br>
 (4) Desenvolvimento - ✳️[Google Colab](https://colab.research.google.com/drive/1B4N8UnISLrUswNxwHef-77bgBt7jkEBz?usp=sharing)</br>
+(5) Ficha Técnica - ✳️[Google Docs](https://docs.google.com/document/d/18LfjJh6B2685xkP0_hpR5TDLM3_Du0ylNMuvyjQ7ju0/edit?usp=sharing)</br> 
 
 
 ## 🤝 Colaboradores
